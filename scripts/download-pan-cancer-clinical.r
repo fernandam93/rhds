@@ -2,6 +2,9 @@ library(readxl)
 
 datadir <- "."
 resultsdir <- "results"
+args <- commandArgs(T)
+datadir <- args[1]
+resultsdir <- args[2]
 
 dir.create(resultsdir, showWarnings = F, recursive = T)
 stopifnot(dir.exists(datadir))
