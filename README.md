@@ -1,6 +1,6 @@
 # rhds
 
-##to recreate the mamba environment used in the practical:
+## To recreate the mamba environment used in the practical:
 
 ```
 git clone https://github.com/fernandam93/rhds.git
