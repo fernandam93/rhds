@@ -1,6 +1,6 @@
 ---
 title: "Analysis of predicted protein levels in tumour samples"
-author: <Fernanda Morales>
+author: "Fernanda Morales"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 format: 
   html:
